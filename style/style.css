@@ -1,7 +1,12 @@
 
+body{
+    background-image: url("https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp");
+    background-color: yellow;
+}
 #one-id{
     color: red
 }
 #two-id{
     color:blue
 }
+
