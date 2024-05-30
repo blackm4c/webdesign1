@@ -1,0 +1,47 @@
+/* Reset some default browser styling for better control */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Container to show margin effect */
+.container {
+    margin: 50px;  
+    padding: 20px; 
+    border: 2px solid black; 
+    outline: 5px dashed red; 
+
+}
+.box {
+    background-color: #a8d0e6;
+    padding: 30px; 
+    border: 3px solid #374785; 
+    outline: 2px solid yellow;
+}
+
+
+.spacing{
+    background-color: aqua;
+    padding: 5px 10px 0 0;
+    /* border: 10px dotted black; */
+    /* outline: 10px dotted green; */
+    margin-left:100px;
+}
+
+.spacing1{
+    background-color: blanchedalmond;
+    padding:50px;
+    margin:0;
+    margin:20px;
+}
+
+.container1{
+    background-color: yellow;
+    width: 100%;
+}
+.img_name{
+    /* margin-left:150px; */
+    text-align: center;
+    background-color: red;
+    padding: 10px
+}
